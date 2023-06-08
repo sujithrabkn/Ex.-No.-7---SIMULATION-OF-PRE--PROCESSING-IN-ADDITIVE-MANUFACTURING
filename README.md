@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SUJITHRA B K N
+### Register Number: 212222230153
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
